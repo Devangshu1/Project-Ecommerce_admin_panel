@@ -1,5 +1,6 @@
 # Ecommerce Admin Panel <br/>
 ## Link: https://ecommerce-admin-panel.infinityfreeapp.com <br/>
+ [ login credentials -> Username: admin123 , Password : admin123]
 ## Description :
 #### This is Ecommerce admin panel website ,where only authenticated admin can manage ecommerce website like products, orders, users and sales record. Along with admin panel if user is not admin then user can visit ecommerce website and can view all products and order product.<br/><br/>
 ##### Admin needs to login using admin credential to get access to admin panel, means only authenticated admin can access Admin Panel. Admin can navigate to different pages like Dashboard, Products, Users, Orders and Sales through Sidebar nav.
